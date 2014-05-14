@@ -1,0 +1,9 @@
+Building MeccaCoin
+
+See doc/readme-qt.rst for instructions on building MeccaCoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of MeccaCoin.
+
+See doc/build-*.txt for instructions on building MeccaCoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of MeccaCoin.
